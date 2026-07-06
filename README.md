@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -35,17 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
 |  |
 | ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1829-maximum-xor-for-each-query) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
