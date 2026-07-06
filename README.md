@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2483-minimum-penalty-for-a-shop) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Hash Table
 |  |
 | ------- |
