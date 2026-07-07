@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0502-ipo](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0502-ipo) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -66,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0502-ipo) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0502-ipo) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
