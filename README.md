@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0419-battleships-in-a-board](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0419-battleships-in-a-board) |
 | [0502-ipo](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0502-ipo) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0419-battleships-in-a-board](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0419-battleships-in-a-board) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0419-battleships-in-a-board](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->
