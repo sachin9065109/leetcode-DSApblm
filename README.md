@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0419-battleships-in-a-board) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0701-insert-into-a-binary-search-tree) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0701-insert-into-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 <!---LeetCode Topics End-->
