@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0450-delete-node-in-a-bst) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-design-underground-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1396-design-underground-system) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 <!---LeetCode Topics End-->
