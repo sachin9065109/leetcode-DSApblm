@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 ## Matrix
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1829-maximum-xor-for-each-query) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
 |  |
 | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
