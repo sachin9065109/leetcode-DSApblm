@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0424-longest-repeating-character-replacement) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0073-set-matrix-zeroes) |
+| [0424-longest-repeating-character-replacement](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1090-largest-values-from-labels](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1090-largest-values-from-labels) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
