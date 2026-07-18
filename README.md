@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Greedy
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 ## Sorting
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Simulation
