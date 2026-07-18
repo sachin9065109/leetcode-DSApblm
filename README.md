@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1480-running-sum-of-1d-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
