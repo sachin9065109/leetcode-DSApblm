@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
+| [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
+| [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
+| [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
+| [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
