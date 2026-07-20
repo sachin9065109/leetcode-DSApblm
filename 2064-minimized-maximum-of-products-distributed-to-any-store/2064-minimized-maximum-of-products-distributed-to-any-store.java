@@ -28,7 +28,7 @@ class Solution {
         long stores = 0;
 
         for (int q : quantities) {
-            stores += (q + x - 1) / x; // ceil(q / x)
+            stores += (q + x - 1) / x; 
 
             if (stores > n) {
                 return false;
