@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1829-maximum-xor-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1829-maximum-xor-for-each-query) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0861-score-after-flipping-matrix) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1090-largest-values-from-labels](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1090-largest-values-from-labels) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1387-sort-integers-by-the-power-value) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
