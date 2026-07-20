@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2179-count-good-triplets-in-an-array) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Trie
