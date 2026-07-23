@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0861-score-after-flipping-matrix) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
