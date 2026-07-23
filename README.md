@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0419-battleships-in-a-board) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -424,11 +429,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union-Find
 |  |
 | ------- |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
+| [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Backtracking
 |  |
