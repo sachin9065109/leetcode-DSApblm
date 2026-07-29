@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0726-number-of-atoms) |
 | [0981-time-based-key-value-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0981-time-based-key-value-store) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0726-number-of-atoms) |
 | [0981-time-based-key-value-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0981-time-based-key-value-store) |
 | [1027-longest-arithmetic-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0726-number-of-atoms) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1090-largest-values-from-labels](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1090-largest-values-from-labels) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0726-number-of-atoms) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
