@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1396-design-underground-system) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0861-score-after-flipping-matrix) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1090-largest-values-from-labels](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1090-largest-values-from-labels) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1387-sort-integers-by-the-power-value) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
