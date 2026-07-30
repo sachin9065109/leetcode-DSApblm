@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1200-minimum-absolute-difference](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1090-largest-values-from-labels) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1396-design-underground-system) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0118-pascals-triangle) |
 | [1027-longest-arithmetic-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1027-longest-arithmetic-subsequence) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1387-sort-integers-by-the-power-value) |
