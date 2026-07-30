@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
 | [1338-reduce-array-size-to-the-half](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1338-reduce-array-size-to-the-half) |
 | [1366-rank-teams-by-votes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1366-rank-teams-by-votes) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1480-running-sum-of-1d-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1396-design-underground-system) |
 | [1400-construct-k-palindrome-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1400-construct-k-palindrome-strings) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1898-maximum-number-of-removable-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1396-design-underground-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1396-design-underground-system) |
 | [1400-construct-k-palindrome-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1400-construct-k-palindrome-strings) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1338-reduce-array-size-to-the-half) |
 | [1366-rank-teams-by-votes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1366-rank-teams-by-votes) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1387-sort-integers-by-the-power-value) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0895-maximum-frequency-stack) |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2179-count-good-triplets-in-an-array) |
 ## Interactive
 |  |
