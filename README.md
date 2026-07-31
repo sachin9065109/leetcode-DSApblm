@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1396-design-underground-system) |
 | [1400-construct-k-palindrome-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1400-construct-k-palindrome-strings) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1898-maximum-number-of-removable-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1400-construct-k-palindrome-strings) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Bitmask
 |  |
