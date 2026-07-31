@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1898-maximum-number-of-removable-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Stack
