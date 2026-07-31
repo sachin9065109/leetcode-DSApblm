@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0908-smallest-range-i) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1004-max-consecutive-ones-iii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0981-time-based-key-value-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0726-number-of-atoms) |
 | [0895-maximum-frequency-stack](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0895-maximum-frequency-stack) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -687,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Enumeration
