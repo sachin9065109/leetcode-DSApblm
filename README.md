@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1600-throne-inheritance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1600-throne-inheritance) |
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1600-throne-inheritance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1600-throne-inheritance) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1387-sort-integers-by-the-power-value) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1638-count-substrings-that-differ-by-one-character) |
