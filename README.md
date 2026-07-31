@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1657-determine-if-two-strings-are-close](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1898-maximum-number-of-removable-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1630-arithmetic-subarrays) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1657-determine-if-two-strings-are-close](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1630-arithmetic-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1657-determine-if-two-strings-are-close](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1366-rank-teams-by-votes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1366-rank-teams-by-votes) |
 | [1400-construct-k-palindrome-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1400-construct-k-palindrome-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
