@@ -1,0 +1,15 @@
+class Solution {
+    public int minProcessingTime(List<Integer> processorTime, List<Integer> tasks) {
+
+        Collections.sort(processorTime);
+        tasks.sort(Collections.reverseOrder());
+
+        int ans = 0;
+
+        for (int i = 0; i < processorTime.size(); i++) {
+            ans = Math.max(ans, processorTime.get(i) + tasks.get(4 * i));
+        }
+
+        return ans;
+    }
+}
