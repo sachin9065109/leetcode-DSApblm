@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Math
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2895-minimum-processing-time](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2895-minimum-processing-time) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-maximize-greatness-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2592-maximize-greatness-of-an-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2895-minimum-processing-time](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2895-minimum-processing-time) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3249-count-the-number-of-good-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3249-count-the-number-of-good-nodes) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -612,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
