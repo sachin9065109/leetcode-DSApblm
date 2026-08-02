@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2592-maximize-greatness-of-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2594-minimum-time-to-repair-cars) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2592-maximize-greatness-of-an-array) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
