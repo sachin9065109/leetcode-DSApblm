@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Stack
