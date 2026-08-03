@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0450-delete-node-in-a-bst) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0700-search-in-a-binary-search-tree) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0700-search-in-a-binary-search-tree) |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
 | [0726-number-of-atoms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0726-number-of-atoms) |
 | [0895-maximum-frequency-stack](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0895-maximum-frequency-stack) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -701,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
 | [0895-maximum-frequency-stack](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1396-design-underground-system) |
@@ -824,4 +829,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
