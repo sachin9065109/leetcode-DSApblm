@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2126-destroying-asteroids](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2592-maximize-greatness-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2592-maximize-greatness-of-an-array) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
