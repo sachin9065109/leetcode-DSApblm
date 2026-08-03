@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1829-maximum-xor-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1829-maximum-xor-for-each-query) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1754-largest-merge-of-two-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1754-largest-merge-of-two-strings) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1754-largest-merge-of-two-strings) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -864,4 +867,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
+## String Matching
+|  |
+| ------- |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 <!---LeetCode Topics End-->
