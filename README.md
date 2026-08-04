@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Hash Table
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
+| [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3923-minimum-generations-to-target-point](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3923-minimum-generations-to-target-point) |
 ## Bit Manipulation
 |  |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
+| [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 ## Segment Tree
 |  |
 | ------- |
