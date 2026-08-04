@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3834-merge-adjacent-equal-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3834-merge-adjacent-equal-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [3834-merge-adjacent-equal-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3834-merge-adjacent-equal-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3834-merge-adjacent-equal-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3834-merge-adjacent-equal-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3923-minimum-generations-to-target-point](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3923-minimum-generations-to-target-point) |
