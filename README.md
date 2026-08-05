@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2179-count-good-triplets-in-an-array) |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2751-robot-collisions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2751-robot-collisions) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3561-resulting-string-after-adjacent-removals) |
