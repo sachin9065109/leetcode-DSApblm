@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Stack
@@ -935,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Data Stream
 |  |
