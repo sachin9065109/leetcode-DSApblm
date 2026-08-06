@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2532-time-to-cross-a-bridge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2532-time-to-cross-a-bridge) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2560-house-robber-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
