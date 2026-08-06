@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -740,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
 | ------- |
@@ -861,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Simulation
@@ -944,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 ## Data Stream
 |  |
 | ------- |
@@ -968,4 +976,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2181-merge-nodes-in-between-zeros) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
