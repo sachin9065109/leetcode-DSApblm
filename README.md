@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
