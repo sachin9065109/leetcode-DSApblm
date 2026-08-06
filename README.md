@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3271-hash-divided-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
 | ------- |
