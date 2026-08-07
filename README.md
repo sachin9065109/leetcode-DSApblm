@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
