@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public long interchangeableRectangles(int[][] rectangles) {
         HashMap<String, Long> map = new HashMap<>();
