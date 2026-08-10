@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -900,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
