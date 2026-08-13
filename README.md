@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3834-merge-adjacent-equal-elements) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 | [3923-minimum-generations-to-target-point](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3923-minimum-generations-to-target-point) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3923-minimum-generations-to-target-point](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3923-minimum-generations-to-target-point) |
 ## Bit Manipulation
 |  |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Sorting
 |  |
 | ------- |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3337-total-characters-in-string-after-transformations-ii) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Stack
 |  |
 | ------- |
