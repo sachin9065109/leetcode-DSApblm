@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3889-mirror-frequency-distance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3889-mirror-frequency-distance) |
+| [3913-sort-vowels-by-frequency](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3913-sort-vowels-by-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3913-sort-vowels-by-frequency](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3889-mirror-frequency-distance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3913-sort-vowels-by-frequency](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3913-sort-vowels-by-frequency) |
 ## Stack
 |  |
 | ------- |
