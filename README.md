@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3612-process-string-with-special-operations-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3889-mirror-frequency-distance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3889-mirror-frequency-distance) |
 ## Hash Table
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3889-mirror-frequency-distance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3889-mirror-frequency-distance) |
 | [3923-minimum-generations-to-target-point](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3923-minimum-generations-to-target-point) |
 ## Bit Manipulation
 |  |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3889-mirror-frequency-distance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3889-mirror-frequency-distance) |
 ## Stack
 |  |
 | ------- |
