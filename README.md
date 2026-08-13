@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-mirror-frequency-distance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3889-mirror-frequency-distance) |
 | [3913-sort-vowels-by-frequency](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3913-sort-vowels-by-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3926-count-valid-word-occurrences) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Greedy
 |  |
 | ------- |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3913-sort-vowels-by-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3926-count-valid-word-occurrences) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
 |  |
 | ------- |
