@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0861-score-after-flipping-matrix) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1314-matrix-block-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1314-matrix-block-sum) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0938-range-sum-of-bst) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
+| [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1600-throne-inheritance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1600-throne-inheritance) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1090-largest-values-from-labels](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1090-largest-values-from-labels) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1366-rank-teams-by-votes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1366-rank-teams-by-votes) |
 | [1400-construct-k-palindrome-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1400-construct-k-palindrome-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
+| [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
@@ -845,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0721-accounts-merge) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
+| [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
