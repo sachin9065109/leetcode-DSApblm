@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1754-largest-merge-of-two-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1898-maximum-number-of-removable-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
 | [1726-tuple-with-same-product](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1726-tuple-with-same-product) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1726-tuple-with-same-product](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1726-tuple-with-same-product) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
