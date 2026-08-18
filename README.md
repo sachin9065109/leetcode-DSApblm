@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1499-max-value-of-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1499-max-value-of-equation) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1338-reduce-array-size-to-the-half) |
 | [1425-constrained-subsequence-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1425-constrained-subsequence-sum) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1499-max-value-of-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1499-max-value-of-equation) |
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1499-max-value-of-equation) |
 | [1695-maximum-erasure-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1695-maximum-erasure-value) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1499-max-value-of-equation) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -939,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1499-max-value-of-equation) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Two Pointers
