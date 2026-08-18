@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
+| [1695-maximum-erasure-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1695-maximum-erasure-value) |
 | [1726-tuple-with-same-product](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1726-tuple-with-same-product) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1657-determine-if-two-strings-are-close) |
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
+| [1695-maximum-erasure-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1695-maximum-erasure-value) |
 | [1726-tuple-with-same-product](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1726-tuple-with-same-product) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1425-constrained-subsequence-sum) |
+| [1695-maximum-erasure-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1695-maximum-erasure-value) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
