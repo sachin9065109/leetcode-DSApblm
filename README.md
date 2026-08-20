@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0419-battleships-in-a-board](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0419-battleships-in-a-board) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0450-delete-node-in-a-bst) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0450-delete-node-in-a-bst) |
