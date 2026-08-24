@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-time-to-cross-a-bridge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2532-time-to-cross-a-bridge) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2931-maximum-spending-after-buying-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2931-maximum-spending-after-buying-items) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1600-throne-inheritance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1600-throne-inheritance) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
