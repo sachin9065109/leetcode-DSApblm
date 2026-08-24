@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2592-maximize-greatness-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2594-minimum-time-to-repair-cars) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2931-maximum-spending-after-buying-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2931-maximum-spending-after-buying-items) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2532-time-to-cross-a-bridge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2532-time-to-cross-a-bridge) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2931-maximum-spending-after-buying-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2931-maximum-spending-after-buying-items) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -921,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3310-remove-methods-from-project) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
