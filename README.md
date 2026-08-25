@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2685-count-the-number-of-complete-components) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2685-count-the-number-of-complete-components) |
