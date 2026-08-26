@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1754-largest-merge-of-two-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1898-maximum-number-of-removable-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1695-maximum-erasure-value) |
 | [1726-tuple-with-same-product](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1726-tuple-with-same-product) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2685-count-the-number-of-complete-components) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-sort-integers-by-the-power-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1387-sort-integers-by-the-power-value) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Counting Sort
 |  |
 | ------- |
@@ -866,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -1201,4 +1207,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
