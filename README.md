@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3613-minimize-maximum-component-cost) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3613-minimize-maximum-component-cost](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3887-incremental-even-weighted-cycle-queries) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Sliding Window
 |  |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1239,4 +1243,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
+| [3812-minimum-edge-toggles-on-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 <!---LeetCode Topics End-->
