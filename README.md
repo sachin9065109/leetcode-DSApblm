@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Graph Theory
 |  |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3608-minimum-time-for-k-connected-components) |
+| [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3887-incremental-even-weighted-cycle-queries) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Depth-First Search
 |  |
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3608-minimum-time-for-k-connected-components) |
+| [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -855,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 ## Memoization
 |  |
@@ -1224,4 +1230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
