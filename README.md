@@ -1220,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1206-design-skiplist](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1206-design-skiplist) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
