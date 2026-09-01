@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1020-number-of-enclaves) |
 | [1027-longest-arithmetic-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1027-longest-arithmetic-subsequence) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1090-largest-values-from-labels](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1090-largest-values-from-labels) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0861-score-after-flipping-matrix) |
 | [0994-rotting-oranges](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0938-range-sum-of-bst) |
+| [1020-number-of-enclaves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -976,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
@@ -999,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0721-accounts-merge) |
+| [1020-number-of-enclaves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
