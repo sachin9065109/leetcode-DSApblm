@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
 | [3493-properties-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3493-properties-graph) |
+| [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
 | [3493-properties-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3493-properties-graph) |
+| [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3829-design-ride-sharing-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3829-design-ride-sharing-system) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
+| [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3613-minimize-maximum-component-cost) |
 | [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 | [3829-design-ride-sharing-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3829-design-ride-sharing-system) |
 ## Divide and Conquer
 |  |
@@ -1067,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3829-design-ride-sharing-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3829-design-ride-sharing-system) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
@@ -1182,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0895-maximum-frequency-stack) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2179-count-good-triplets-in-an-array) |
+| [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 ## Interactive
 |  |
 | ------- |
