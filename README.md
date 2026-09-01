@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1829-maximum-xor-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1499-max-value-of-equation) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -1128,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0874-walking-robot-simulation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -1291,4 +1295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
