@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0886-possible-bipartition) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0886-possible-bipartition) |
 | [0938-range-sum-of-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
@@ -1033,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1267-count-servers-that-communicate) |
@@ -1343,10 +1347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0886-possible-bipartition) |
 ## Radix Sort
 |  |
 | ------- |
