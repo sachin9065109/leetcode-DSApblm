@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1529-minimum-suffix-flips](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1529-minimum-suffix-flips) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1600-throne-inheritance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1600-throne-inheritance) |
 | [1630-arithmetic-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1630-arithmetic-subarrays) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
 | [1829-maximum-xor-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1829-maximum-xor-for-each-query) |
@@ -924,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-reducing-dishes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1402-reducing-dishes) |
 | [1425-constrained-subsequence-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1425-constrained-subsequence-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1638-count-substrings-that-differ-by-one-character) |
