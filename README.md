@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1529-minimum-suffix-flips) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1600-throne-inheritance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1600-throne-inheritance) |
 | [1630-arithmetic-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1630-arithmetic-subarrays) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1529-minimum-suffix-flips](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1529-minimum-suffix-flips) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1552-magnetic-force-between-two-balls) |
 | [1630-arithmetic-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1630-arithmetic-subarrays) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
