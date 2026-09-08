@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3493-properties-graph) |
 | [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3527-find-the-most-common-response](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3527-find-the-most-common-response) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3527-find-the-most-common-response](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3527-find-the-most-common-response) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3612-process-string-with-special-operations-i) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3493-properties-graph) |
 | [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3527-find-the-most-common-response](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3527-find-the-most-common-response) |
 | [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1005,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3527-find-the-most-common-response](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3527-find-the-most-common-response) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3889-mirror-frequency-distance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3889-mirror-frequency-distance) |
