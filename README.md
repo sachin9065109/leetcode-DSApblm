@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-rearranging-fruits](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2561-rearranging-fruits) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2592-maximize-greatness-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2592-maximize-greatness-of-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2594-minimum-time-to-repair-cars) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-count-subarrays-with-median-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2488-count-subarrays-with-median-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2561-rearranging-fruits](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2561-rearranging-fruits) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
