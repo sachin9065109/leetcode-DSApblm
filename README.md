@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2751-robot-collisions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2751-robot-collisions) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
