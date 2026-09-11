@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2156-find-substring-with-given-hash-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2156-find-substring-with-given-hash-value) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2080-range-frequency-queries) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
