@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2080-range-frequency-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2080-range-frequency-queries) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2080-range-frequency-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2080-range-frequency-queries) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2080-range-frequency-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2080-range-frequency-queries) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2179-count-good-triplets-in-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -1135,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1600-throne-inheritance) |
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
+| [2080-range-frequency-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2080-range-frequency-queries) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
@@ -1270,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2080-range-frequency-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2080-range-frequency-queries) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2179-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3737-count-subarrays-with-majority-element-i) |
