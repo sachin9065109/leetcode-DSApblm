@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3138-minimum-length-of-anagram-concatenation) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1260,6 +1262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2751-robot-collisions) |
 | [3100-water-bottles-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3100-water-bottles-ii) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3271-hash-divided-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3271-hash-divided-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
