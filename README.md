@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3128-right-triangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3128-right-triangles) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3138-minimum-length-of-anagram-concatenation) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2931-maximum-spending-after-buying-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2931-maximum-spending-after-buying-items) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -1277,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2751-robot-collisions) |
 | [2766-relocate-marbles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2766-relocate-marbles) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3080-mark-elements-on-array-by-performing-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3100-water-bottles-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3100-water-bottles-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
