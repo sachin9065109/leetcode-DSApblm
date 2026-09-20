@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Greedy
 |  |
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Simulation
 |  |
 | ------- |
