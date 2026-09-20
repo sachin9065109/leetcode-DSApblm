@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -1259,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
+| [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Simulation
@@ -1353,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Sweep Line
