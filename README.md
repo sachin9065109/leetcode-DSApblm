@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3834-merge-adjacent-equal-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3834-merge-adjacent-equal-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -1261,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Simulation
