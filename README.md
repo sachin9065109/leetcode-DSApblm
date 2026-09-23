@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0449-serialize-and-deserialize-bst) |
 | [0721-accounts-merge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0721-accounts-merge) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1136,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0130-surrounded-regions) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0547-number-of-provinces) |
@@ -1531,4 +1534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
