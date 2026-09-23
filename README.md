@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3814-maximum-capacity-within-budget](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3814-maximum-capacity-within-budget) |
 | [3834-merge-adjacent-equal-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3834-merge-adjacent-equal-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3613-minimize-maximum-component-cost](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3613-minimize-maximum-component-cost) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3814-maximum-capacity-within-budget](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3814-maximum-capacity-within-budget) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3814-maximum-capacity-within-budget](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3814-maximum-capacity-within-budget) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Binary Tree
 |  |
@@ -1284,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3814-maximum-capacity-within-budget](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3814-maximum-capacity-within-budget) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Number Theory
