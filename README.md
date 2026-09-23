@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3814-maximum-capacity-within-budget](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3814-maximum-capacity-within-budget) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3834-merge-adjacent-equal-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3834-merge-adjacent-equal-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Math
 |  |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3814-maximum-capacity-within-budget](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3814-maximum-capacity-within-budget) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Binary Tree
 |  |
@@ -1400,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Sweep Line
