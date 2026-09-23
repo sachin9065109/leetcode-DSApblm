@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3814-maximum-capacity-within-budget](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3814-maximum-capacity-within-budget) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3826-minimum-partition-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3826-minimum-partition-score) |
 | [3834-merge-adjacent-equal-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3834-merge-adjacent-equal-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3826-minimum-partition-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3826-minimum-partition-score) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## String
 |  |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3814-maximum-capacity-within-budget](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3814-maximum-capacity-within-budget) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3826-minimum-partition-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3826-minimum-partition-score) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Binary Tree
 |  |
@@ -1048,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3772-maximum-subgraph-score-in-a-tree) |
+| [3826-minimum-partition-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3826-minimum-partition-score) |
 ## Memoization
 |  |
 | ------- |
@@ -1223,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3826-minimum-partition-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3826-minimum-partition-score) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Queue
 |  |
@@ -1237,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3826-minimum-partition-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3826-minimum-partition-score) |
 | [3829-design-ride-sharing-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3829-design-ride-sharing-system) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Monotonic Queue
@@ -1246,6 +1252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1499-max-value-of-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1499-max-value-of-equation) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3826-minimum-partition-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3826-minimum-partition-score) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Two Pointers
 |  |
