@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2972-count-the-number-of-incremovable-subarrays-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2972-count-the-number-of-incremovable-subarrays-ii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
@@ -1421,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-next-greater-numerically-balanced-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
