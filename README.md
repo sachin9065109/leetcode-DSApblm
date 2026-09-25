@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
@@ -1418,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
