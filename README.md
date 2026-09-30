@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3790-smallest-all-ones-multiple](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3790-smallest-all-ones-multiple) |
 | [3829-design-ride-sharing-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3829-design-ride-sharing-system) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3889-mirror-frequency-distance](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3889-mirror-frequency-distance) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3790-smallest-all-ones-multiple](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3790-smallest-all-ones-multiple) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
