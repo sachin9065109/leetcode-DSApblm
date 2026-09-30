@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0449-serialize-and-deserialize-bst) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0130-surrounded-regions) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1209,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0126-word-ladder-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -1559,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0127-word-ladder) |
 ## Geometry
 |  |
