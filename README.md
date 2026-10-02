@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2028-find-missing-observations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2028-find-missing-observations) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2326-spiral-matrix-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2326-spiral-matrix-iv) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2028-find-missing-observations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2028-find-missing-observations) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
