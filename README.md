@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1454,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
