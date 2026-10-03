@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2028-find-missing-observations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2028-find-missing-observations) |
@@ -1082,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
