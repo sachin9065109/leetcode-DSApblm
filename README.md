@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2326-spiral-matrix-iv) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2317-maximum-xor-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2317-maximum-xor-after-operations) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
