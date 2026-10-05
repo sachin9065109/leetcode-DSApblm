@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2080-range-frequency-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2080-range-frequency-queries) |
+| [2101-detonate-the-maximum-bombs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2101-detonate-the-maximum-bombs) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2063-vowels-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2063-vowels-of-all-substrings) |
+| [2101-detonate-the-maximum-bombs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2101-detonate-the-maximum-bombs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2101-detonate-the-maximum-bombs) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2101-detonate-the-maximum-bombs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2101-detonate-the-maximum-bombs) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -1226,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2101-detonate-the-maximum-bombs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2101-detonate-the-maximum-bombs) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2685-count-the-number-of-complete-components) |
@@ -1629,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2101-detonate-the-maximum-bombs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2101-detonate-the-maximum-bombs) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
