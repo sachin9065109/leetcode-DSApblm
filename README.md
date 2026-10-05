@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -1624,6 +1626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
