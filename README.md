@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1829-maximum-xor-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1829-maximum-xor-for-each-query) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1393,6 +1395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0874-walking-robot-simulation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2028-find-missing-observations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2028-find-missing-observations) |
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
