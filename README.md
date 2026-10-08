@@ -613,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2929-distribute-candies-among-children-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
