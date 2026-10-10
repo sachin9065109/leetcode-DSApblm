@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3412-find-mirror-score-of-a-string) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -1388,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -1514,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
