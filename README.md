@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1898-maximum-number-of-removable-characters) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -1219,6 +1221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2751-robot-collisions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2751-robot-collisions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3412-find-mirror-score-of-a-string) |
@@ -1369,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1898-maximum-number-of-removable-characters) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2105-watering-plants-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2105-watering-plants-ii) |
@@ -1672,4 +1676,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2745-construct-the-longest-new-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2745-construct-the-longest-new-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
