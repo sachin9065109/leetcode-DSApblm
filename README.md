@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2352-equal-row-and-column-pairs) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2326-spiral-matrix-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2326-spiral-matrix-iv) |
+| [2352-equal-row-and-column-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2352-equal-row-and-column-pairs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2596-check-knight-tour-configuration) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2295-replace-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2336-smallest-number-in-infinite-set) |
+| [2352-equal-row-and-column-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2352-equal-row-and-column-pairs) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1459,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2295-replace-elements-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2326-spiral-matrix-iv) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2352-equal-row-and-column-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2532-time-to-cross-a-bridge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2532-time-to-cross-a-bridge) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
