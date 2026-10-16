@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
@@ -1480,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1268-search-suggestions-system) |
+| [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 ## Segment Tree
@@ -1523,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2929-distribute-candies-among-children-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2929-distribute-candies-among-children-ii) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -1609,11 +1613,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2156-find-substring-with-given-hash-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2156-find-substring-with-given-hash-value) |
+| [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Hash Function
 |  |
 | ------- |
 | [2156-find-substring-with-given-hash-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2156-find-substring-with-given-hash-value) |
+| [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Z Algorithm
 |  |
