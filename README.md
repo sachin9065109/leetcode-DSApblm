@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
+| [2295-replace-elements-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2317-maximum-xor-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2317-maximum-xor-after-operations) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2266-count-number-of-texts) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
+| [2295-replace-elements-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2295-replace-elements-in-an-array) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1451,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2295-replace-elements-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2295-replace-elements-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2326-spiral-matrix-iv) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2462-total-cost-to-hire-k-workers) |
