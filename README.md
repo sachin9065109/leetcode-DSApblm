@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3138-minimum-length-of-anagram-concatenation) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3271-hash-divided-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3271-hash-divided-string) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3138-minimum-length-of-anagram-concatenation) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3337-total-characters-in-string-after-transformations-ii) |
