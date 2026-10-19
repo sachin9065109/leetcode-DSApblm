@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3295-report-spam-message) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Tree
