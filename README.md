@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3271-hash-divided-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3271-hash-divided-string) |
 | [3295-report-spam-message](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3295-report-spam-message) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3295-report-spam-message](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3295-report-spam-message) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Tree
