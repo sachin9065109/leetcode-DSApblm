@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2156-find-substring-with-given-hash-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2156-find-substring-with-given-hash-value) |
+| [2182-construct-string-with-repeat-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2182-construct-string-with-repeat-limit) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-next-greater-numerically-balanced-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2080-range-frequency-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2080-range-frequency-queries) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2135-count-words-obtained-after-adding-a-letter) |
+| [2182-construct-string-with-repeat-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2182-construct-string-with-repeat-limit) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2182-construct-string-with-repeat-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2182-construct-string-with-repeat-limit) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
+| [2182-construct-string-with-repeat-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2182-construct-string-with-repeat-limit) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2336-smallest-number-in-infinite-set) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -1231,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2182-construct-string-with-repeat-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2182-construct-string-with-repeat-limit) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
