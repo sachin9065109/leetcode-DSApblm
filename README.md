@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3597-partition-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3597-partition-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3790-smallest-all-ones-multiple](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3790-smallest-all-ones-multiple) |
 | [3829-design-ride-sharing-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3829-design-ride-sharing-system) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
