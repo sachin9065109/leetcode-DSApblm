@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2488-count-subarrays-with-median-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2929-distribute-candies-among-children-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
+| [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
@@ -1493,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 | [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -1602,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2929-distribute-candies-among-children-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2929-distribute-candies-among-children-ii) |
+| [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
