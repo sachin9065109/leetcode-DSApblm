@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-relocate-marbles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2766-relocate-marbles) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2751-robot-collisions) |
 | [2766-relocate-marbles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2766-relocate-marbles) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2895-minimum-processing-time](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2895-minimum-processing-time) |
 | [2931-maximum-spending-after-buying-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2931-maximum-spending-after-buying-items) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
