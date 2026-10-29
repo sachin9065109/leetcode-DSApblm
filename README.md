@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2895-minimum-processing-time](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2895-minimum-processing-time) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2905-find-indices-with-index-and-value-difference-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2905-find-indices-with-index-and-value-difference-ii) |
 | [2931-maximum-spending-after-buying-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2931-maximum-spending-after-buying-items) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2895-minimum-processing-time](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2895-minimum-processing-time) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2931-maximum-spending-after-buying-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2931-maximum-spending-after-buying-items) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
