@@ -535,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2370-longest-ideal-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2370-longest-ideal-subsequence) |
+| [2374-node-with-highest-edge-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2374-node-with-highest-edge-score) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2374-node-with-highest-edge-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2374-node-with-highest-edge-score) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2685-count-the-number-of-complete-components) |
