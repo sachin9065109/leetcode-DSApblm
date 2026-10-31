@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-move-pieces-to-obtain-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2353-design-a-food-rating-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2353-design-a-food-rating-system) |
+| [2370-longest-ideal-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2370-longest-ideal-subsequence) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2370-longest-ideal-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2370-longest-ideal-subsequence) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -1214,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-total-appeal-of-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2262-total-appeal-of-a-string) |
 | [2266-count-number-of-texts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2266-count-number-of-texts) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2370-longest-ideal-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2370-longest-ideal-subsequence) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
