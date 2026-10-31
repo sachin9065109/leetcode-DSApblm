@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2262-total-appeal-of-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2262-total-appeal-of-a-string) |
 | [2266-count-number-of-texts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2266-count-number-of-texts) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2156-find-substring-with-given-hash-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2156-find-substring-with-given-hash-value) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2401-longest-nice-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2401-longest-nice-subarray) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
