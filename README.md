@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2352-equal-row-and-column-pairs) |
+| [2353-design-a-food-rating-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2353-design-a-food-rating-system) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2353-design-a-food-rating-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2353-design-a-food-rating-system) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2352-equal-row-and-column-pairs) |
+| [2353-design-a-food-rating-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2353-design-a-food-rating-system) |
 | [2354-number-of-excellent-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2354-number-of-excellent-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2353-design-a-food-rating-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2353-design-a-food-rating-system) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2532-time-to-cross-a-bridge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2532-time-to-cross-a-bridge) |
@@ -1403,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2013-detect-squares) |
 | [2080-range-frequency-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2080-range-frequency-queries) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2336-smallest-number-in-infinite-set) |
+| [2353-design-a-food-rating-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2353-design-a-food-rating-system) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
@@ -1597,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2179-count-good-triplets-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2336-smallest-number-in-infinite-set) |
+| [2353-design-a-food-rating-system](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2353-design-a-food-rating-system) |
 | [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
 ## Interactive
 |  |
