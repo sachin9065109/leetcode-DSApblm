@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3425-longest-special-path](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3425-longest-special-path) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
 | [3493-properties-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3493-properties-graph) |
 | [3508-implement-router](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3508-implement-router) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-zero-array-transformation-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3356-zero-array-transformation-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3425-longest-special-path](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3425-longest-special-path) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3412-find-mirror-score-of-a-string) |
 | [3425-longest-special-path](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3425-longest-special-path) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3488-closest-equal-element-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3488-closest-equal-element-queries) |
 | [3493-properties-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3493-properties-graph) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Sorting
@@ -1238,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3337-total-characters-in-string-after-transformations-ii) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3620-network-recovery-pathways](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3620-network-recovery-pathways) |
@@ -1643,6 +1648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3434-maximum-frequency-after-subarray-operation) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3765-complete-prime-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3765-complete-prime-number) |
