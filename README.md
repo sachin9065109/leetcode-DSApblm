@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3067-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3021-alice-and-bob-playing-flower-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3100-water-bottles-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3100-water-bottles-ii) |
@@ -1810,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Brainteaser
 |  |
 | ------- |
