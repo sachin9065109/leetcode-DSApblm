@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2751-robot-collisions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2751-robot-collisions) |
+| [2761-prime-pairs-with-target-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2761-prime-pairs-with-target-sum) |
 | [2766-relocate-marbles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2766-relocate-marbles) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2831-find-the-longest-equal-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2831-find-the-longest-equal-subarray) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2745-construct-the-longest-new-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2745-construct-the-longest-new-string) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -1539,6 +1541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
+| [2761-prime-pairs-with-target-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1652,6 +1655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
+| [2761-prime-pairs-with-target-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2761-prime-pairs-with-target-sum) |
 | [2929-distribute-candies-among-children-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2929-distribute-candies-among-children-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
