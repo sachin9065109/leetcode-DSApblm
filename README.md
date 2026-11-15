@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2939-maximum-xor-product](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2939-maximum-xor-product) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2929-distribute-candies-among-children-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
+| [2939-maximum-xor-product](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2939-maximum-xor-product) |
 | [2947-count-beautiful-substrings-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2947-count-beautiful-substrings-i) |
 | [2963-count-the-number-of-good-partitions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2963-count-the-number-of-good-partitions) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3021-alice-and-bob-playing-flower-game) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2895-minimum-processing-time) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2931-maximum-spending-after-buying-items](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2931-maximum-spending-after-buying-items) |
+| [2939-maximum-xor-product](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2939-maximum-xor-product) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3035-maximum-palindromes-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3035-maximum-palindromes-after-operations) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3068-find-the-maximum-sum-of-node-values) |
