@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/0932-beautiful-array) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1248-count-number-of-nice-subarrays) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1338-reduce-array-size-to-the-half) |
 | [1400-construct-k-palindrome-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1400-construct-k-palindrome-strings) |
 | [1402-reducing-dishes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1402-reducing-dishes) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
