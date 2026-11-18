@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2532-time-to-cross-a-bridge](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2532-time-to-cross-a-bridge) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2560-house-robber-iv) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2579-count-total-number-of-colored-cells](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2579-count-total-number-of-colored-cells) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2560-house-robber-iv) |
 | [2561-rearranging-fruits](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2561-rearranging-fruits) |
