@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2284-sender-with-largest-word-count](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2266-count-number-of-texts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2266-count-number-of-texts) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2317-maximum-xor-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2317-maximum-xor-after-operations) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1561,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -1831,6 +1835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2101-detonate-the-maximum-bombs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2101-detonate-the-maximum-bombs) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
