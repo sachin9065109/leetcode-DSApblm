@@ -684,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -1671,6 +1672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
