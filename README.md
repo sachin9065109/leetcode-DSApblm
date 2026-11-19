@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2179-count-good-triplets-in-an-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2187-minimum-time-to-complete-trips) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2182-construct-string-with-repeat-limit](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2182-construct-string-with-repeat-limit) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2126-destroying-asteroids) |
 | [2135-count-words-obtained-after-adding-a-letter](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2135-count-words-obtained-after-adding-a-letter) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2300-successful-pairs-of-spells-and-potions) |
