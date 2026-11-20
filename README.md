@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2187-minimum-time-to-complete-trips](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2187-minimum-time-to-complete-trips) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2178-maximum-split-of-positive-even-integers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
@@ -1370,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2751-robot-collisions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2751-robot-collisions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3412-find-mirror-score-of-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3412-find-mirror-score-of-a-string) |
@@ -1570,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
@@ -1771,6 +1775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 ## DP on Trees
 |  |
@@ -1855,4 +1860,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
