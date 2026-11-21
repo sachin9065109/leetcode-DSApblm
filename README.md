@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2453-destroy-sequential-targets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2453-destroy-sequential-targets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2488-count-subarrays-with-median-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2488-count-subarrays-with-median-k) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2579-count-total-number-of-colored-cells](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2579-count-total-number-of-colored-cells) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -1582,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
