@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
+| [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+| [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2579-count-total-number-of-colored-cells](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2579-count-total-number-of-colored-cells) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -1344,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2453-destroy-sequential-targets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2453-destroy-sequential-targets) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -1734,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2929-distribute-candies-among-children-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2929-distribute-candies-among-children-ii) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
@@ -1882,4 +1887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
