@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1922-count-good-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1922-count-good-numbers) |
@@ -1276,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2008-maximum-earnings-from-taxi](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
@@ -1743,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2063-vowels-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
