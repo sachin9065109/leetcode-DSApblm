@@ -682,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1840-maximum-building-height](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1840-maximum-building-height) |
+| [1860-incremental-memory-leak](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1860-incremental-memory-leak) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -1627,6 +1628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1860-incremental-memory-leak](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1860-incremental-memory-leak) |
 | [2028-find-missing-observations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2028-find-missing-observations) |
 | [2105-watering-plants-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2105-watering-plants-ii) |
 | [2109-adding-spaces-to-a-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2109-adding-spaces-to-a-string) |
