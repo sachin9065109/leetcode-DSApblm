@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
+| [2440-create-components-with-same-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2440-create-components-with-same-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2453-destroy-sequential-targets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2453-destroy-sequential-targets) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2440-create-components-with-same-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2440-create-components-with-same-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2440-create-components-with-same-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2440-create-components-with-same-value) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2685-count-the-number-of-complete-components) |
@@ -1126,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2440-create-components-with-same-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2440-create-components-with-same-value) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1718,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2261-k-divisible-elements-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2261-k-divisible-elements-subarrays) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2440-create-components-with-same-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2440-create-components-with-same-value) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2761-prime-pairs-with-target-sum) |
 | [2929-distribute-candies-among-children-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2929-distribute-candies-among-children-ii) |
