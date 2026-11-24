@@ -737,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2523-closest-prime-numbers-in-range) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2579-count-total-number-of-colored-cells](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2579-count-total-number-of-colored-cells) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -1628,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2523-closest-prime-numbers-in-range) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -1948,14 +1950,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2523-closest-prime-numbers-in-range) |
 ## Minimax
 |  |
 | ------- |
