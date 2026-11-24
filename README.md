@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2201-count-artifacts-that-can-be-extracted](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2201-count-artifacts-that-can-be-extracted) |
+| [2217-find-palindrome-with-fixed-length](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2217-find-palindrome-with-fixed-length](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2217-find-palindrome-with-fixed-length) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2249-count-lattice-points-inside-a-circle) |
