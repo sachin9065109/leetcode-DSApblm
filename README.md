@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2317-maximum-xor-after-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2317-maximum-xor-after-operations) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
@@ -1307,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2266-count-number-of-texts](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2266-count-number-of-texts) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2370-longest-ideal-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2370-longest-ideal-subsequence) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
@@ -1618,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -1773,6 +1776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2063-vowels-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -1931,10 +1935,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Fermat's Little Theorem
 |  |
 | ------- |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 ## Prime Factorization
 |  |
 | ------- |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
