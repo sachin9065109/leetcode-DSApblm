@@ -722,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2364-count-number-of-bad-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2364-count-number-of-bad-pairs) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2440-create-components-with-same-value](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2440-create-components-with-same-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -1303,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2370-longest-ideal-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2370-longest-ideal-subsequence) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -1766,6 +1768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2063-vowels-of-all-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2929-distribute-candies-among-children-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2929-distribute-candies-among-children-ii) |
