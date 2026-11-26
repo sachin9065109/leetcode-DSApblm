@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1872-stone-game-viii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1829-maximum-xor-for-each-query) |
+| [1872-stone-game-viii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1895-largest-magic-square) |
 | [1915-number-of-wonderful-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1915-number-of-wonderful-substrings) |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1840-maximum-building-height) |
 | [1860-incremental-memory-leak](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1860-incremental-memory-leak) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1872-stone-game-viii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1904-the-number-of-full-rounds-you-have-played) |
@@ -1305,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1681-minimum-incompatibility](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1681-minimum-incompatibility) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1872-stone-game-viii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1872-stone-game-viii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2008-maximum-earnings-from-taxi](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2054-two-best-non-overlapping-events) |
@@ -1804,6 +1808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Iterator
@@ -1969,6 +1974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -1977,5 +1983,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
