@@ -749,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2523-closest-prime-numbers-in-range) |
 | [2527-find-xor-beauty-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2527-find-xor-beauty-of-array) |
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
+| [2543-check-if-point-is-reachable](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2543-check-if-point-is-reachable) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2579-count-total-number-of-colored-cells](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2579-count-total-number-of-colored-cells) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -1643,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2523-closest-prime-numbers-in-range) |
+| [2543-check-if-point-is-reachable](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2543-check-if-point-is-reachable) |
 | [2601-prime-subtraction-operation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2601-prime-subtraction-operation) |
 | [2761-prime-pairs-with-target-sum](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -1848,6 +1850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2543-check-if-point-is-reachable](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2543-check-if-point-is-reachable) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greatest Common Divisor
 |  |
@@ -1857,6 +1860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2543-check-if-point-is-reachable](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2543-check-if-point-is-reachable) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/3312-sorted-gcd-pair-queries) |
 ## DP on Trees
 |  |
