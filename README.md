@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1766-tree-of-coprimes](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1766-tree-of-coprimes) |
 | [1776-car-fleet-ii](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1776-car-fleet-ii) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1819-number-of-different-subsequences-gcds) |
