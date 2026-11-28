@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1922-count-good-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1922-count-good-numbers) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2028-find-missing-observations](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2028-find-missing-observations) |
 | [2029-stone-game-ix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2029-stone-game-ix) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2029-stone-game-ix](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1914,6 +1916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 ## Graph Coloring
 |  |
