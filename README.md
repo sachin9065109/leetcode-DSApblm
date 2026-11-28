@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2405-optimal-partition-of-string](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2405-optimal-partition-of-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2514-count-anagrams](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2514-count-anagrams) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -1342,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2376-count-special-integers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2376-count-special-integers) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2439-minimize-maximum-of-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2439-minimize-maximum-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2501-longest-square-streak-in-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2501-longest-square-streak-in-an-array) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2560-house-robber-iv](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2560-house-robber-iv) |
@@ -1620,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/sachin9065109/leetcode-DSApblm/tree/master/2563-count-the-number-of-fair-pairs) |
